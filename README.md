@@ -1,17 +1,12 @@
 # development-workflow
 Different development strategies that may help
 
-## The team
-1. Project manager (PM)
-2. Team lead, developer (TL)
-3. Developer(s)
-4. Tester
-
 ## Strategies
 
-1. [Pipeline strategy](/src/chapter1.md)
-2. [Tickets strategy](/src/chapter2.md)
-3. [Deploy strategy](/src/chapter3.md)
-4. [Source control strategy](/src/chapter4.md)
-5. [Scrum strategy](/src/chapter5.md)
-6. [Work strategy](/src/chapter6.md)
+1. [The team](/src/01-team.md)
+2. [Pipeline strategy](/src/02-pipeline-strategy.md)
+3. [Tickets strategy](/src/03-tickets-strategy.md)
+4. [Deploy strategy](/src/04-deploy-strategy.md)
+5. [Source control strategy](/src/05-source-control-strategy.md)
+6. [Scrum strategy](/src/06-scrum-strategy.md)
+7. [Work strategy](/src/07-work-strategy.md)
