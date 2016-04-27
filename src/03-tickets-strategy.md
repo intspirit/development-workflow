@@ -17,8 +17,5 @@
 3. `Open tab ‘my_tab’` / `go this submenu` / `something else understandable`
 4. `Add / change something`
 
-**Expected result:** `some result we expect`
-
-**Actual result:** the current system behavior
-
-Also images, videos and any other additional information should be attached.
+**Expected result:** `some result we expect`  
+**Actual result:** the system behavior as is. Also images, videos, log output and any other additional information should be attached.
